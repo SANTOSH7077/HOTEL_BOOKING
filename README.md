@@ -24,3 +24,12 @@ Conclusion:-
 ●	Bookings made via complementary market segment and adults have on average high no. of special request. 
 ●	For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr. 
 
+Challenges: -
+
+
+1.	There was a lot of duplicate data.
+2.	Data was present in wrong datatype format.
+3.	Choosing appropriate visualization techniques to use was difficult.
+4.	A lot of null values were there in the dataset.
+
+
