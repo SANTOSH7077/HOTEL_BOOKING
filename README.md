@@ -1,11 +1,11 @@
 # HOTEL_BOOKING
 Hotel bookings data analysis was done by group of 2 members – Kuresh Ch. Tripathy, N.SANTOSH KUMAR CHOUDHURY
 
-Objective:-
+# Objective:-
 
 We are provided with a hotel bookings dataset. Our main objective is performing EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other
 
-Conclusion:-
+# Conclusion:-
 
 
 ●	Customer visiting from Country Portugal has most number of Babies. 
@@ -24,7 +24,7 @@ Conclusion:-
 ●	Bookings made via complementary market segment and adults have on average high no. of special request. 
 ●	For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr. 
 
-Challenges: -
+# Challenges: -
 
 
 1.	There was a lot of duplicate data.
