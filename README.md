@@ -1,8 +1,11 @@
 # HOTEL_BOOKING
 Hotel bookings data analysis was done by group of 2 members – Kuresh Ch. Tripathy, N.SANTOSH KUMAR CHOUDHURY
 Objective:-
+
 We are provided with a hotel bookings dataset. Our main objective is performing EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other
 Conclusion:-
+
+
 ●	Customer visiting from Country Portugal has most number of Babies. 
 ●	Most of Booking done in year 2016 i.e. 56,707 number of booking. 
 ●	Meal is mostly preferred by the guests during their visit is BB type which    is 77.8% of all type of meal. 
