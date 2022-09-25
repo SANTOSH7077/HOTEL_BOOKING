@@ -1,2 +1,2 @@
 # HOTEL_BOOKING
-Analyzing the data of Hotel Booking
+Hotel bookings data analysis was done by group of 2 members – Kuresh Ch. Tripathy, N.SANTOSH KUMAR CHOUDHURY
